@@ -5,9 +5,9 @@ CIVET has been developed in Python 3.6. It uses the packages numpy and pyqtgraph
 
 Please take a look at the user manual "CIVET_User_Manual.pdf" for further details.
 
-Wonjun Son
-Dan D. Erdmann-Pham
-Khanh Dao Duc
-Yun S. Song
-
+Wonjun Son  
+Dan D. Erdmann-Pham  
+Khanh Dao Duc  
+Yun S. Song  
+  
 University of California, Berkeley
