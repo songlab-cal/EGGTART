@@ -8,4 +8,4 @@ Please take a look at the user manual "EGGTART_User_Manual.pdf" for further deta
 Dan D. Erdmann-Pham, UC Berkeley\
 Wonjun Son, Columbia University\
 Khanh Dao Duc, University of British Columbia\
-Yun S. Song, UC Berkeley\
+Yun S. Song, UC Berkeley
