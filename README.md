@@ -6,6 +6,9 @@ EGGTART has been developed in Python 3.6. It uses the packages numpy and pyqtgra
 Please take a look at the user manual "EGGTART_User_Manual.pdf" for further details.
   
 Dan D. Erdmann-Pham, UC Berkeley
+
 Wonjun Son, Columbia University
+
 Khanh Dao Duc, University of British Columbia
+
 Yun S. Song, UC Berkeley
