@@ -47,7 +47,7 @@ The role of the defect location in our previous example is now taken on by the s
 
 ![tutorial_6](figures/tutorial_6.png)
 
-6. The phase transitions from LD to HD also depend on the value of <img src="https://render.githubusercontent.com/render/math?math=\lambda"> at the boundaries of the lattice. By changing <img src="https://render.githubusercontent.com/render/math?math=\lambda(0)"> or <img src="https://render.githubusercontent.com/render/math?math=\lambda(1)">, one can notice that the separation between LD and HD in the phase diagram gets non-linear.
+6. In addition to the role of <img src="https://render.githubusercontent.com/render/math?math=\lambda_{\min}">, EGGTART transparantly illustrates a dependence of the system's summary statistics on <img src="https://render.githubusercontent.com/render/math?math=\lambda(0)"> and <img src="https://render.githubusercontent.com/render/math?math=\lambda(1)"> that was not discernible in the homogeneous or slow-bond settings: Transitions in the phase diagram critically depend on <img src="https://render.githubusercontent.com/render/math?math=\lambda(0)"> and <img src="https://render.githubusercontent.com/render/math?math=\lambda(1)"> to the extent that <img src="https://render.githubusercontent.com/render/math?math=\alpha^{\ast}"> and <img src="https://render.githubusercontent.com/render/math?math=\beta^{\ast}"> are no longer symmetric, and the previously linear HD-LD separtion has turned non-linear.
 
 ![tutorial_7](figures/tutorial_8.png)
 
