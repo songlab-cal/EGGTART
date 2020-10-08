@@ -7,7 +7,7 @@ EGGTART has been developed in Python 3.6. and uses the numpy and pyqtgraph packa
 ## Tutorial
 Here is a simple tutorial to demonstrate the various features of EGGTART and the fundamental properties of the TASEP:
 
-1. To begin with, let us visualize the original TASEP model. Load the input file called 
+1. To begin with, let us visualize the original homogeneous 1-TASEP model. Load the input file called 
 ```
 homogeneous_rates.csv
 ```
