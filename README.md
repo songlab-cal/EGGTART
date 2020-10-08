@@ -21,7 +21,7 @@ The <img src="https://render.githubusercontent.com/render/math?math=\lambda"> pa
 
 ![tutorial_2](figures/tutorial_2.png)
 
-As a result, the ball in the phase diagram panel has now moved to the _LD_ region and in the top right panel, and the <img src="https://render.githubusercontent.com/render/math?math=\alpha"> flag has moved past the critical red line (representing a phase boundary) correspondingly. The single <img src="https://render.githubusercontent.com/render/math?math=\rho"> branch in the <img src="https://render.githubusercontent.com/render/math?math=\rho"> panel has split into a lower and upper one, of which the solution to our hydrodynamic limit picks the lower (whence, low density).
+As a result, the ball in the phase diagram panel has now moved to the _LD_ region and in the top right panel, and the <img src="https://render.githubusercontent.com/render/math?math=\alpha"> flag has moved past the critical red line (representing a phase boundary) correspondingly. The single <img src="https://render.githubusercontent.com/render/math?math=\rho"> branch in the <img src="https://render.githubusercontent.com/render/math?math=\rho"> panel has split into a lower and upper one, the fomer of which is picked by the solution to our hydrodynamic limit (whence, low density).
 
 3. To visualize the HD regime, we modify <img src="https://render.githubusercontent.com/render/math?math=\beta"> to 0.1 (proceeding as before, but adjusting values in the middle box instead of the left one):
 
