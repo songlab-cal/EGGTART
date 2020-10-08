@@ -21,7 +21,7 @@ The <img src="https://render.githubusercontent.com/render/math?math=\lambda"> pa
 
 ![tutorial_2](figures/tutorial_2.png)
 
-As a result, the ball in the phase diagram panel has now moved to the _LD_ region and in the top right panel, and the <img src="https://render.githubusercontent.com/render/math?math=\alpha"> flag has moved past the critical red line (representing a phase boundary) correspondingly. The single <img src="https://render.githubusercontent.com/render/math?math=\rho"> branch in the <img src="https://render.githubusercontent.com/render/math?math=\rho"> panel has split into a lower and upper one, the fomer of which is picked by the solution to our hydrodynamic limit (whence, low density).
+As a result, the ball in the phase diagram panel has now moved to the LD region and in the top right panel, and the <img src="https://render.githubusercontent.com/render/math?math=\alpha"> flag has moved past the critical red line (representing a phase boundary) correspondingly. The single <img src="https://render.githubusercontent.com/render/math?math=\rho"> branch in the <img src="https://render.githubusercontent.com/render/math?math=\rho"> panel has split into a lower and upper one, the fomer of which is picked by the solution to our hydrodynamic limit (whence, low density).
 
 3. To visualize the HD regime, we modify <img src="https://render.githubusercontent.com/render/math?math=\beta"> to 0.1 (proceeding as before, but adjusting values in the middle box instead of the left one):
 
@@ -29,7 +29,7 @@ As a result, the ball in the phase diagram panel has now moved to the _LD_ regio
 
 The density has now switched to the upper branch, with the relative roles of <img src="https://render.githubusercontent.com/render/math?math=\alpha"> and <img src="https://render.githubusercontent.com/render/math?math=\beta"> with respect to their critical values reversing in the top and bottom right panels.
 
-4. We now introduce _defects_ or _slow bonds_ in our jump rates. To do so, we right-click on any point of the <img src="https://render.githubusercontent.com/render/math?math=\lambda"> plot and decrease its value (to, say, 0.2):
+4. We now introduce _defects_ or _slow bonds_ into our jump rates. To do so, we right-click on any point of the <img src="https://render.githubusercontent.com/render/math?math=\lambda"> plot and decrease its value (to, say, 0.2):
 
 ![tutorial_4](figures/tutorial_4.png)
 
