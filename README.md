@@ -51,7 +51,7 @@ The role of the defect location in our previous example is now taken on by the s
 
 ![tutorial_7](figures/tutorial_8.png)
 
-7. Finally, increase the value of the particle size <img src="https://render.githubusercontent.com/render/math?math=\ell"> to see how it decreases the density, current, and critical values of <img src="https://render.githubusercontent.com/render/math?math=\alpha"> and <img src="https://render.githubusercontent.com/render/math?math=\beta">, and also modifies the shape of the LD to HD phase separation:
+7. Finally, we increase the value of the particle size <img src="https://render.githubusercontent.com/render/math?math=\ell"> to see how it modifies the shape of the LD-HD phase boundary and decreases densities, currents, and critical values of <img src="https://render.githubusercontent.com/render/math?math=\alpha"> and <img src="https://render.githubusercontent.com/render/math?math=\beta">:
 
 ![tutorial_8](figures/tutorial_9.png)
 
