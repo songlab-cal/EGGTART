@@ -13,9 +13,13 @@ homogeneous_rates.csv
 ```
 which should result in this setup:
 
-![tutorial_1](figures/tutorial_1.png | width=100)
+![tutorial_1](figures/tutorial_1.png)
 
 The <img src="https://render.githubusercontent.com/render/math?math=\lambda"> panel (bottom left) displays the hopping rates. In the top left panel, you can visualize the bulk density.  Default parameters <img src="https://render.githubusercontent.com/render/math?math=\alpha"> (entrance rate), <img src="https://render.githubusercontent.com/render/math?math=\beta"> (exit rate) and <img src="https://render.githubusercontent.com/render/math?math=\ell"> (particle size) are displayed in the bottom middle panel. In the top middle panel, a ball indicates the current <img src="https://render.githubusercontent.com/render/math?math=(\alpha, \beta)"> value in the phase diagram. One can see that the dynamics followed here is the MC (maximal current) regime, where both <img src="https://render.githubusercontent.com/render/math?math=\alpha"> and <img src="https://render.githubusercontent.com/render/math?math=\beta"> are above their respective critical values associated with phase transitions (shown by red lines in the right panels). As the parameters are in the maximal current regime, one can also notice in the right panels that the current and average density are constant in this region.
+
+2. Change the entrance rate <img src="https://render.githubusercontent.com/render/math?math=\alpha"> by typing a new value (0.2) in the left box located in the middle bottom panel (it is also possible to drag the ball located in the phase diagram):
+
+![tutorial_2](figures/tutorial_2.png)
 
 
 Please consult the user manual "EGGTART_User_Manual.pdf" for further details.
