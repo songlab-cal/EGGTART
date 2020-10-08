@@ -35,6 +35,26 @@ The density has now switched to the upper branch, while the position of <img src
 
 In the MC regime, one can now notice that two branches of solution co-exist, with <img src="https://render.githubusercontent.com/render/math?math=\rho"> starting from the upper one before switching to the lower one at the defect location.  Moreover, the range of _J_ has decreased significantly.
 
+5. To visualize the impact of the rate heterogeneity, load the input file called\break 
+```
+heterogeneous_rates.csv
+```
+which will yield the following interface:
+
+![tutorial_5](figures/tutorial_5.png)
+
+At positions where the hopping rate function <img src="https://render.githubusercontent.com/render/math?math=\lambda"> achieves the minimum, the density switches between the two branches.  Therefore, changing these locations can drastically affect the density over the whole lattice:
+
+![tutorial_6](figures/tutorial_6.png)
+
+6. The phase transitions from LD to HD also depend on the value of <img src="https://render.githubusercontent.com/render/math?math=\lambda"> at the boundaries of the lattice. By changing <img src="https://render.githubusercontent.com/render/math?math=\lambda(0)"> or <img src="https://render.githubusercontent.com/render/math?math=\lambda(1)">, one can notice that the separation between LD and HD in the phase diagram gets non-linear.
+
+![tutorial_7](figures/tutorial_8.png)
+
+7. Finally, increase the value of the particle size <img src="https://render.githubusercontent.com/render/math?math=\ell"> to see how it decreases the density, current, and critical values of <img src="https://render.githubusercontent.com/render/math?math=\alpha"> and <img src="https://render.githubusercontent.com/render/math?math=\beta">, and also modifies the shape of the LD to HD phase separation:
+
+![tutorial_8](figures/tutorial_9.png)
+
 Please consult the user manual "EGGTART_User_Manual.pdf" for further details.
   
 Dan D. Erdmann-Pham, UC Berkeley\
