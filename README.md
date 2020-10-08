@@ -33,7 +33,7 @@ The density has now switched to the upper branch, with the relative roles of <im
 
 ![tutorial_4](figures/tutorial_4.png)
 
-This reveals the branch switching phenomenon visible in MC: both solution branches now co-exists, with <img src="https://render.githubusercontent.com/render/math?math=\rho"> transitioning from high to low density precisely at the defect location.  Moreover, the reduction the dynamical range of _J_ has is clearly visible.
+This reveals the branch switching phenomenon visible in MC: both solution branches now co-exists, with <img src="https://render.githubusercontent.com/render/math?math=\rho"> transitioning from high to low density precisely at the defect location.  Moreover, the reduction in the dynamical range of _J_ is clearly visible.
 
 5. To visualize the impact of more extensive rate heterogeneity, we load the input file
 ```
