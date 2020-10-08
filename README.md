@@ -21,6 +21,19 @@ The <img src="https://render.githubusercontent.com/render/math?math=\lambda"> pa
 
 ![tutorial_2](figures/tutorial_2.png)
 
+As a result, the ball in the phase diagram panel has now moved to the _LD_ region and in the top right panel, the <img src="https://render.githubusercontent.com/render/math?math=\alpha"> flag is now on the left side of the critical red line. Instead of having a single branch of solutions, there are now two branches in the <img src="https://render.githubusercontent.com/render/math?math=\rho"> panel, such that the solution of the hydrodynamic limit takes the lower one (with lower density).
+
+3. To visualize the HD regime, modify <img src="https://render.githubusercontent.com/render/math?math=\beta"> to 0.1 (same as in the previous step, with the middle box instead of the left one):
+
+![tutorial_3](figures/tutorial_3.png)
+
+The density has now switched to the upper branch, while the position of <img src="https://render.githubusercontent.com/render/math?math=\beta"> with respect to the critical line (shown in red) is reversed in the bottom right panel, and likewise for <img src="https://render.githubusercontent.com/render/math?math=\alpha"> in the top right panel.
+
+4. We now introduce some _defect_ in the rates. Right click on any point of the <img src="https://render.githubusercontent.com/render/math?math=\lambda"> plot and decrease its value (e.g. 0.2):
+
+![tutorial_4](figures/tutorial_4.png)
+
+In the MC regime, one can now notice that two branches of solution co-exist, with <img src="https://render.githubusercontent.com/render/math?math=\rho"> starting from the upper one before switching to the lower one at the defect location.  Moreover, the range of _J_ has decreased significantly.
 
 Please consult the user manual "EGGTART_User_Manual.pdf" for further details.
   
