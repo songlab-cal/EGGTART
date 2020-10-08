@@ -29,13 +29,13 @@ As a result, the ball in the phase diagram panel has now moved to the _LD_ regio
 
 The density has now switched to the upper branch, with the relative roles of <img src="https://render.githubusercontent.com/render/math?math=\alpha"> and <img src="https://render.githubusercontent.com/render/math?math=\beta"> with respect to their critical values reversing in the top and bottom right panels.
 
-4. We now introduce some _defect_ in the rates. Right click on any point of the <img src="https://render.githubusercontent.com/render/math?math=\lambda"> plot and decrease its value (e.g. 0.2):
+4. We now introduce _defects_ or _slow bonds_ in our jump rates. To do so, we right-click on any point of the <img src="https://render.githubusercontent.com/render/math?math=\lambda"> plot and decrease its value (to, say, 0.2):
 
 ![tutorial_4](figures/tutorial_4.png)
 
-In the MC regime, one can now notice that two branches of solution co-exist, with <img src="https://render.githubusercontent.com/render/math?math=\rho"> starting from the upper one before switching to the lower one at the defect location.  Moreover, the range of _J_ has decreased significantly.
+This propels us into the branch switching phenomenon visible in MC: both solution branches now co-exists, with <img src="https://render.githubusercontent.com/render/math?math=\rho"> transitioning from high to low density precisely at the defect location.  Moreover, the reduction the dynamical range of _J_ has is clearly visible.
 
-5. To visualize the impact of the rate heterogeneity, load the input file called\break 
+5. To visualize the impact of more extensive rate heterogeneity, we load the input file
 ```
 heterogeneous_rates.csv
 ```
@@ -43,7 +43,7 @@ which will yield the following interface:
 
 ![tutorial_5](figures/tutorial_5.png)
 
-At positions where the hopping rate function <img src="https://render.githubusercontent.com/render/math?math=\lambda"> achieves the minimum, the density switches between the two branches.  Therefore, changing these locations can drastically affect the density over the whole lattice:
+The role of the defect location in our previous example is now taken on by the site of minimal elongation rate: it acts as bottleneck to the global current and forms the separator between high and low densities. Consequently, changes of its location can have dramatic effects on transport efficiency and thus deserve careful study:
 
 ![tutorial_6](figures/tutorial_6.png)
 
