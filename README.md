@@ -17,17 +17,17 @@ which should result in this setup:
 
 The <img src="https://render.githubusercontent.com/render/math?math=\lambda"> panel (bottom left) displays the hopping rates, while the top left panel visualizes the bulk density. Default parameters <img src="https://render.githubusercontent.com/render/math?math=\alpha"> (entrance rate), <img src="https://render.githubusercontent.com/render/math?math=\beta"> (exit rate) and <img src="https://render.githubusercontent.com/render/math?math=\ell"> (particle size) are displayed in the bottom middle panel, with a ball in the top middle panel indicating the current <img src="https://render.githubusercontent.com/render/math?math=(\alpha, \beta)"> value in the phase diagram. EGGTART informs us that for this particular configuration, the system follows dynamics of the MC (maximal current) regime, since both <img src="https://render.githubusercontent.com/render/math?math=\alpha"> and <img src="https://render.githubusercontent.com/render/math?math=\beta"> are above their respective critical values associated with phase transitions (shown by red lines in the right panels). The right panels display correctly that the current and average density are constant in this region.
 
-2. Change the entrance rate <img src="https://render.githubusercontent.com/render/math?math=\alpha"> by typing a new value (0.2) in the left box located in the middle bottom panel (it is also possible to drag the ball located in the phase diagram):
+2. We change the entrance rate <img src="https://render.githubusercontent.com/render/math?math=\alpha"> by typing a new value (0.2) in the left box located in the middle bottom panel (it is also possible to drag the ball located in the phase diagram):
 
 ![tutorial_2](figures/tutorial_2.png)
 
-As a result, the ball in the phase diagram panel has now moved to the _LD_ region and in the top right panel, the <img src="https://render.githubusercontent.com/render/math?math=\alpha"> flag is now on the left side of the critical red line. Instead of having a single branch of solutions, there are now two branches in the <img src="https://render.githubusercontent.com/render/math?math=\rho"> panel, such that the solution of the hydrodynamic limit takes the lower one (with lower density).
+As a result, the ball in the phase diagram panel has now moved to the _LD_ region and in the top right panel, and the <img src="https://render.githubusercontent.com/render/math?math=\alpha"> flag has moved past the critical red line (representing a phase boundary) correspondingly. The single <img src="https://render.githubusercontent.com/render/math?math=\rho"> branch in the <img src="https://render.githubusercontent.com/render/math?math=\rho"> panel has split into a lower and upper one, of the solution of our hydrodynamic limit picks the lower (whence, low density).
 
-3. To visualize the HD regime, modify <img src="https://render.githubusercontent.com/render/math?math=\beta"> to 0.1 (same as in the previous step, with the middle box instead of the left one):
+3. To visualize the HD regime, we modify <img src="https://render.githubusercontent.com/render/math?math=\beta"> to 0.1 (proceeding as before, but adjusting values in the middle box instead of the left one):
 
 ![tutorial_3](figures/tutorial_3.png)
 
-The density has now switched to the upper branch, while the position of <img src="https://render.githubusercontent.com/render/math?math=\beta"> with respect to the critical line (shown in red) is reversed in the bottom right panel, and likewise for <img src="https://render.githubusercontent.com/render/math?math=\alpha"> in the top right panel.
+The density has now switched to the upper branch, with the relative roles of <img src="https://render.githubusercontent.com/render/math?math=\alpha"> and <img src="https://render.githubusercontent.com/render/math?math=\beta"> with respect to their critical values reversing in the top and bottom right panels.
 
 4. We now introduce some _defect_ in the rates. Right click on any point of the <img src="https://render.githubusercontent.com/render/math?math=\lambda"> plot and decrease its value (e.g. 0.2):
 
