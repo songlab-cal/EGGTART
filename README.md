@@ -1,9 +1,9 @@
 # EGGTART
 EGGTART (**E**xtensive **G**UI **g**ives **T**ASEP-realization in **r**eal-**t**ime) is a software package that provides a visualization of the dynamics associated with the generalized Totally Asymmetric Simple Exclusion Process (TASEP), as detailed in
 
-_EGGTART: A computational tool to visualize the dynamics of biophysical transport processes under the inhomogeneous <img src="https://render.githubusercontent.com/render/math?math=\ell">-TASEP_<br/>
-Dan D Erdmann-Pham*, Wonjun Son*, Khanh Dao Duc, Yun S Song<br/>
-arXiv preprint: [2010.13034](https://arxiv.org/abs/2010.13034)
+> _EGGTART: A computational tool to visualize the dynamics of biophysical transport processes under the inhomogeneous <img src="https://render.githubusercontent.com/render/math?math=\ell">-TASEP_<br/>
+> Dan D Erdmann-Pham*, Wonjun Son*, Khanh Dao Duc, Yun S Song<br/>
+> arXiv preprint: [2010.13034](https://arxiv.org/abs/2010.13034)
 
 ## Installation
 EGGTART has been developed in Python 3.6. and uses the numpy and pyqtgraph packages, which require pyqt4 or pyqt5. For ease of installation, we provide an executable version of the software that does not require Python or the required add-on packages to be installed. To launch EGGTART, simply download the version developed for your operating system, and double-click the corresponding executable file. Currently, we provide distributions of EGGTART for Mac OS X, Linux (Ubuntu 18.04) and Windows, with most extensive testing conducted on Mac. A separate open-source version will be made available in the near future. 
